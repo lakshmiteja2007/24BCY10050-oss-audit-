@@ -1,7 +1,7 @@
 # OSS Audit Project: LibreOffice
 
-* **Student Name:** SANAPATHI RESHMI
-* **Registration Number:** 24BAS10110
+* **Student Name:** C LAKSHMI TEJA
+* **Registration Number:** 24BCY10050
 * **Course:** Open Source Software  
 * **Date of Submission:** March 31, 2026
 
